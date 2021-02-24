@@ -7,4 +7,4 @@ the context.
 In this project, we aimed at classifying sarcastic and ironic versions of news headlines from TheOnion website and the real headlines in the news, gathered from HuffPost website.
 Bi/LSTM architecture with and without attention mechanism have been used, leveraging contextualized word embeddings from the
 pre-trained language model, BERT.
-~                                      
+
